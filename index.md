@@ -14,3 +14,6 @@ science. Von Neumann died 1957 in Wahsington, D.C..
 > possible to achieve with computer technology, although one 
 > should be careful with such statements, as they tend to sound 
 > pretty silly in 5 years.
+
+<img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/GrabJohnVonNeuman.JPG/1024px-GrabJohnVonNeuman.JPG"/>
