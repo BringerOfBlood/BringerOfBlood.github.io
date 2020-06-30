@@ -15,6 +15,7 @@ science. Von Neumann died 1957 in Wahsington, D.C..
 > should be careful with such statements, as they tend to sound 
 > pretty silly in 5 years.
 
-<img 
-src="https://commons.wikimedia.org/wiki/File:Tiepolo,_Giambattista_-_Die_Unbefleckte_Empf%C3%A4ngnis_-_1767_-_1768_-_Drachenauge.jpg"/>
 
+<img 
+src="https://drive.google.com/file/d/14S2VHpc25KNm9rIUV2SAFbGoQGJUhBDE/preview" 
+width="640" height="480"/>
