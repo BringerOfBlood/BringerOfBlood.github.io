@@ -8,5 +8,9 @@ science. Von Neumann died 1957 in Wahsington, D.C..
 
 * Mathetmatician
 * Computer scientist
-* Known for the Von Neumann architecture in computer hard ware
+* Known for the Von Neumann architecture in computer hardware
 
+> It would appear that we have reached the limits of what it is 
+> possible to achieve with computer technology, although one 
+> should be careful with such statements, as they tend to sound 
+> pretty silly in 5 years.
