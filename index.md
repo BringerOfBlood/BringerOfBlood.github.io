@@ -16,6 +16,4 @@ science. Von Neumann died 1957 in Wahsington, D.C..
 > pretty silly in 5 years.
 
 
-<img 
-src="https://drive.google.com/file/d/14S2VHpc25KNm9rIUV2SAFbGoQGJUhBDE/preview" 
-width="640" height="480"/>
+<img src="GrabJohnVonNeuman.jpg"/>
